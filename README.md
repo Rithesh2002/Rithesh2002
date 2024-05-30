@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rithesh2002
-- 👀 I’m interested in software development and AI
+- 👀 I’m interested in software development and Artificial intelligence
 - 🌱 I’m currently learning full-stack development
 - 💞️ I’m looking to collaborate on open-source projects
 
